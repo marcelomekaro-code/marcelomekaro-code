@@ -43,12 +43,11 @@ App de celular (PWA) que organiza a escala de roda dos técnicos de enfermagem d
 - 🖨️ Gera cartaz A4 com QR Code para o posto
 - 💬 Aviso automático pelo WhatsApp (opcional)
 
-<a href="https://uti-roda.netlify.app"><img src="https://img.shields.io/badge/Abrir%20o%20app-uti--roda.netlify.app-0F766E?style=flat-square&logo=netlify&logoColor=white"/></a>
-<a href="https://github.com/marcelomekaro-code/roda-uti"><img src="https://img.shields.io/badge/Código-roda--uti-181717?style=flat-square&logo=github"/></a>
+<sub>🏥 Em uso real pela equipe da UTI, por isso o acesso ao app não é público. Veja a demonstração no GIF ao lado.</sub>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
-![Netlify Functions](https://img.shields.io/badge/Netlify%20Functions-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/Progressive_web_apps"><img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white"/></a>
+<a href="https://docs.netlify.com/functions/overview/"><img src="https://img.shields.io/badge/Netlify%20Functions-00C7B7?style=flat-square&logo=netlify&logoColor=white"/></a>
 
 </td>
 <td width="45%" align="center">
@@ -63,8 +62,8 @@ App de celular (PWA) que organiza a escala de roda dos técnicos de enfermagem d
 
 | | Projeto | O que resolve | Link |
 |:-:|---|---|:-:|
-| 🤖 | **Assistente Clínico IA** | Chatbot RAG para consulta de protocolos assistenciais, com transbordo para especialista humano e telemetria de custo (FinOps) | [demo](https://inovaeinstein.netlify.app) |
 | 🧁 | **Estoque Ilma Mekaro Doces** | Projeto de extensão (IFSP) para uma confeitaria real: estoque com leitor de código de barras, lista de compras automática, SQLite em camadas, 28 testes automáticos e instalador para Windows | [código](https://github.com/marcelomekaro-code/estoque-ilma-mekaro) |
+| 🤖 | **Assistente Clínico IA** | Chatbot RAG para consulta de protocolos assistenciais, com transbordo para especialista humano e telemetria de custo (FinOps) | [demo](https://inovaeinstein.netlify.app) |
 | 📈 | **Chrono Trade** | Carteira de investimentos da B3 com agentes de IA, interface em Streamlit e testes automatizados | [código](https://github.com/marcelomekaro-code) |
 | 👥 | **Dimensionamento & Passagem de Plantão** | Dimensionamento de equipe e passagem de plantão no padrão I-PASS (Power Apps + Power BI) | [demo](https://dimensionamentohmvsc2.netlify.app) |
 | 🛡️ | **Safety Huddle Digital** | Huddle de segurança registrado em menos de 2 min, com dashboards em tempo real | [demo](https://safetyhuddle.netlify.app) |
@@ -78,22 +77,23 @@ App de celular (PWA) que organiza a escala de roda dos técnicos de enfermagem d
 ## 🛠️ Tecnologias
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <a href="https://docs.python.org/pt-br/3/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
+  <a href="https://www.sqlite.org/docs.html"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
+  <a href="https://docs.streamlit.io"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/></a>
+  <a href="https://docs.netlify.com"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+  <a href="https://git-scm.com/doc"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/IA%20Generativa%20·%20RAG-0F766E?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white"/>
+  <a href="https://docs.oracle.com/pt-br/iaas/Content/home.htm"><img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/></a>
+  <a href="https://learn.microsoft.com/pt-br/power-bi/"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/></a>
+  <a href="https://learn.microsoft.com/pt-br/power-apps/"><img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white"/></a>
+  <a href="https://learn.microsoft.com/pt-br/power-automate/"><img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white"/></a>
 </p>
 
+**IA:** IA generativa · RAG (Retrieval-Augmented Generation)
 **Sistemas de saúde:** Tasy · Soul MV · Cerner Millennium
 **Métodos:** Ágil · Lean Six Sigma Green Belt · gestão de projetos · KPIs
 
@@ -105,21 +105,32 @@ App de celular (PWA) que organiza a escala de roda dos técnicos de enfermagem d
 |---|---|:-:|
 | Tecnologia em Análise e Desenvolvimento de Sistemas | IFSP | 🟢 cursando |
 | Especialização em Informática em Saúde | UNIFESP | 🟢 cursando |
-| MBA em Planejamento Estratégico | UMJ | 🟢 cursando |
+| MBA em Planejamento Estratégico | UMJ | ✅ 2026 |
 | MBAs em Metodologias Ágeis · Gestão de Projetos e Processos | UMJ | ✅ 2025 |
 | MBA em Gestão em Saúde | São Camilo | ✅ 2024 |
 | Bacharelado em Enfermagem | UFSCar | ✅ 2015 |
 
 🏅 **Oracle Cloud Infrastructure AI Foundations** · 🏅 **Lean Six Sigma Green Belt**
-🔬 3 artigos em periódicos indexados · ex-bolsista FAPESP
+
+---
+
+## 🔬 Produção científica
+
+| Ano | Artigo | Periódico |
+|:-:|---|---|
+| 2018 | [Effects of aging and resistance training in rat tendon remodeling](https://faseb.onlinelibrary.wiley.com/doi/abs/10.1096/fj.201700543r) | The FASEB Journal |
+| 2017 | [Reduced collagen accumulation and augmented MMP-2 activity in left ventricle of old rats submitted to high-intensity resistance training](https://journals.physiology.org/doi/pdf/10.1152/japplphysiol.01090.2016) | Journal of Applied Physiology |
+| 2016 | [Serious game development as a strategy for health promotion and tackling childhood obesity](https://repositorio.usp.br/directbitstream/3df560b2-9396-432e-befa-7607d0f1e71a/002801861.pdf) | Revista Latino-Americana de Enfermagem |
+
+<sub>Bolsista de iniciação científica FAPESP (processos 2012/07996-1 e 2014/11044-1).</sub>
 
 ---
 
 ## 📊 Atividade no GitHub
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=marcelomekaro-code&show_icons=true&hide_border=true&theme=transparent&title_color=0F766E&icon_color=0F766E&locale=pt-br"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomekaro-code&layout=compact&hide_border=true&theme=transparent&title_color=0F766E&locale=pt-br"/>
+  <a href="https://github.com/marcelomekaro-code?tab=repositories"><img height="160" src="https://github-readme-stats.vercel.app/api?username=marcelomekaro-code&show_icons=true&hide_border=true&theme=transparent&title_color=0F766E&icon_color=0F766E&locale=pt-br"/></a>
+  <a href="https://github.com/marcelomekaro-code?tab=repositories"><img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomekaro-code&layout=compact&hide_border=true&theme=transparent&title_color=0F766E&locale=pt-br"/></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F766E&height=100&section=footer" width="100%"/>
